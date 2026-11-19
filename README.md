@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.mahir.design/"><img src="https://raw.githubusercontent.com/mahirakash/mahirakash/main/assets/banner.gif" alt="Mahir Abrar Akash, Senior Product Designer for SaaS and startups, based in Dhaka, working US hours" width="100%"></a>
+<a href="https://www.mahir.design/"><img src="https://raw.githubusercontent.com/mahirakash/mahirakash/main/assets/banner-v2.gif" alt="Mahir Abrar Akash, Senior Product Designer for SaaS and startups, based in Dhaka, working US hours" width="100%"></a>
 
 <h3>✦ PRODUCT DESIGN · DESIGN SYSTEMS · WEBSITES THAT CONVERT</h3>
 
