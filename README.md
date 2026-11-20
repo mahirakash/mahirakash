@@ -81,6 +81,9 @@ Yes. I work US hours, so calls, reviews and stand-ups happen in your day, not mi
 **What do you need to get started?**
 A 15-minute call. Tell me what you're building and where it's stuck; I'll tell you how I'd approach it. **[Book here](https://cal.com/mahirakash/15min)**.
 
+**How does a project usually run?**
+Short discovery call → user flows and wireframes → UI design in Figma → design system and specs → build or developer handoff. You see progress every week, not just at the end.
+
 **Can you also build what you design?**
 Yes. I build marketing sites in Webflow, WordPress, HubSpot and code myself, and deliver full products with an engineering team.
 
