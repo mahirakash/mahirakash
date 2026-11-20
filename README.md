@@ -22,6 +22,8 @@
 
 I'm **Mahir Abrar Akash**, a **senior product designer** in Dhaka, Bangladesh. For ten years I've helped **SaaS teams, startups and digital brands** turn complex products into interfaces people understand instantly. Today I lead product design at [Skribe.ai](https://skribe.ai).
 
+📍 **Now:** shipping premium Webflow, Framer and coded templates for [Ariva](https://arivastudio.com), and building [Rankwright](https://github.com/mahirakash/rankwright) in the open.
+
 I work where **function, emotion and conversion** meet, and I keep US hours, so your 10am stand-up is my late-night sweet spot.
 
 > **Building something?** Book a 15-minute call and tell me what you're working on. No pitch deck needed: **[cal.com/mahirakash/15min](https://cal.com/mahirakash/15min)**
